@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Volodymyr!](http://vhumeniuk.com/) 👋
+### Hi there, I'm [Volodymyr](http://vhumeniuk.com/) 👋
 
 <br />
 
