@@ -20,6 +20,6 @@ I’m a web developer originally from Kyiv (Ukraine) and currently working and l
 
 <br />
 
-![Volodymyr Humeniuk github stats](https://github-readme-stats.vercel.app/api?username=VladimirHumeniuk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=buefy)
+![Volodymyr Humeniuk github stats](https://github-readme-stats.vercel.app/api?username=VladimirHumeniuk&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=buefy){:style="float: right;margin-right: 7px"}
 
-![Volodymyr Humeniuk github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirHumeniuk)
+![Volodymyr Humeniuk github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirHumeniuk  )
