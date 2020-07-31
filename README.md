@@ -23,4 +23,4 @@ I’m a web developer originally from Kyiv (Ukraine) and currently working and l
 
 <br />
 
-![Volodymyr Humeniuk github stats](https://github-readme-stats.vercel.app/api?username=VladimirHumeniuk&show_icons=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirHumeniuk&layout=compact)](https://github.com/VladimirHumeniuk/github-readme-stats)
